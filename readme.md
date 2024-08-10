@@ -1,6 +1,8 @@
 # Platformer Game
 
+<!-- DESCRIPTION-START -->
 A basic JavaScript platformer game. Use the keyboard arrows to move the player and collect yellow checkpoints. Press the spacebar or up to jump.
+<!-- DESCRIPTION-END -->
 
 ![project image](https://res.cloudinary.com/dwguf4w1t/image/upload/v1723227174/Portfolio%20Projects/platformer-game-js_x6oirw.png)
 
